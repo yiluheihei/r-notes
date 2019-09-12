@@ -36,6 +36,7 @@
   microbiome analysis
 - [curatedMetagemicData](https://github.com/waldronlab/curatedMetagenomicData), 
   **package**, Curated and processed metagenomic data through ExperimentHub 
+- [metacoder](https://github.com/grunwaldlab/metacoder), **package**, Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data
 
 ## Awesome list
 
