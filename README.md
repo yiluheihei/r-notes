@@ -35,6 +35,9 @@
   Data
 - [microbiome](https://github.com/microbiome/microbiome), tools for
   microbiome analysis
+- [MicrobiomeR](https://github.com/vallenderlab/MicrobiomeR), An R package for
+  microbiome analysis that incorporates phyloseq, metacoder, taxa, and microbiome 
+  in order to standardize and simplify common microbiome workflows
 - [curatedMetagemicData](https://github.com/waldronlab/curatedMetagenomicData), 
   Curated and processed metagenomic data through ExperimentHub 
 - [metacoder](https://github.com/grunwaldlab/metacoder), Parsing, Manipulation,
@@ -80,6 +83,7 @@
 - [taxize](https://github.com/ropensci/taxize), search over many taxonomic data
   sources for species names (scientific and common) and download up and
   downstream taxonomic hierarchical information - among other things
+- [taxa](https://github.com/ropensci/taxa), taxonomic classes and functions to manipulate them
 
 ### code
 
