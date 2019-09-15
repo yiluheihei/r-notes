@@ -19,9 +19,6 @@
   
 ## data science
 
-- 
-
-
 ## Bioinformatics
 
 ### genomic
@@ -100,7 +97,7 @@
 
 ## ebook
 
-
+Repository [R-ebbok](https://github.com/yiluheihei/R-ebook) stored all the r programming e-books I collected.
 
 
 ## Contributing
