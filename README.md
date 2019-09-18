@@ -84,6 +84,7 @@
   sources for species names (scientific and common) and download up and
   downstream taxonomic hierarchical information - among other things
 - [taxa](https://github.com/ropensci/taxa), taxonomic classes and functions to manipulate them
+- [MetaLonDA](https://github.com/aametwally/MetaLonDA), a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies
 
 ### code
 
