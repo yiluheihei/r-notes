@@ -19,6 +19,10 @@
   
 ## data science
 
+### tidy data
+
+- [A graphical introducton to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star), slide
+
 ## Bioinformatics
 
 ### genomic
