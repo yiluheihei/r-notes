@@ -10,12 +10,18 @@
   
 ## visualization
 
-- [ggpointdensity](https://github.com/LKremer/ggpointdensity), **package**, 
+### package
+
+- [ggpointdensity](https://github.com/LKremer/ggpointdensity), 
   `geom_pointdensity()`: A cross between a scatter plot and a 2D density plot. 
   If you have lots of data points on top of each other, `geom_point()` fails to 
   give you an estimate of how many points are overlapping. `geom_density2d()` and
   geom_bin2d() solve this issue, but they make it impossible to investigate 
   individual outlier points, which may be of interest.
+  
+### tutorials
+
+- [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
   
 ## data science
 
