@@ -3,7 +3,7 @@
 
 ## look source code of R packages
 
-- [lookup](https://github.com/jimhester/lookup), **package**, Lookup R full  
+- [lookup](https://github.com/jimhester/lookup), package, Lookup R full  
   function definitions, including compiled code, S3 and S4 methods.
 - [Accessing R Source](https://github.com/jennybc/access-r-source), source of R
   function, S3 class and compiled code
@@ -25,15 +25,14 @@
   
 ## data science
 
-### tidy data
-
 - [A graphical introducton to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star), slide
+- [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/), tutorial
 
 ## Bioinformatics
 
 ### genomic
 
-- [GenVisR](https://github.com/griffithlab/GenVisR/issues), **package**,
+- [GenVisR](https://github.com/griffithlab/GenVisR/issues), package,
   visulization for genomic data
 
 ## microbe/metagenomic
