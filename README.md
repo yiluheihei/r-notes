@@ -1,16 +1,16 @@
 # R packages and sources
 
+## packages
 
-## look source code of R packages
+### pipeline, reproducible research
 
-- [lookup](https://github.com/jimhester/lookup), package, Lookup R full  
-  function definitions, including compiled code, S3 and S4 methods.
-- [Accessing R Source](https://github.com/jennybc/access-r-source), source of R
-  function, S3 class and compiled code
-  
-## visualization
+- [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for reproducibility and high-performance computing
 
-### package
+### visualization
+
+- [esquisse](https://github.com/dreamRs/esquisse), RStudio add-in to make plots
+  with ggplot2. You can only create simple plots, you won't be able to use custom
+  scales and all the power of ggplot2
 
 - [ggpointdensity](https://github.com/LKremer/ggpointdensity), 
   `geom_pointdensity()`: A cross between a scatter plot and a 2D density plot. 
@@ -19,25 +19,19 @@
   geom_bin2d() solve this issue, but they make it impossible to investigate 
   individual outlier points, which may be of interest.
   
-### tutorials
-
-- [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
+- [highcharter](https://github.com/jbkunst/highcharter), Highcharter is a R
+  wrapper for Highcharts javascript libray and its modules. Highcharts is very
+  mature and flexible javascript charting library and it has a great and powerful
+  API, See http://www.highcharts.com/demo.
   
-## data science
+### Bioinformatics
 
-- [A graphical introducton to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star), slide
-- [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/), tutorial
-
-## Bioinformatics
-
-### genomic
+#### genomic
 
 - [GenVisR](https://github.com/griffithlab/GenVisR/issues), package,
   visulization for genomic data
 
-## microbe/metagenomic
-
-### R package
+#### microbe/metagenomic
 
 - [phyloseq](https://github.com/joey711/phyloseq), phyloseq: An R 
   Package for Reproducible Interactive Analysis and Graphics of Microbiome Census
@@ -95,7 +89,40 @@
 - [taxa](https://github.com/ropensci/taxa), taxonomic classes and functions to manipulate them
 - [MetaLonDA](https://github.com/aametwally/MetaLonDA), a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies
 
-### code
+
+
+## tutorials
+
+### web
+
+- [htmlwidgets for R](http://gallery.htmlwidgets.org/), htmlwidgets gallery for R
+
+### look source code of R packages
+
+- [lookup](https://github.com/jimhester/lookup), package, Lookup R full  
+  function definitions, including compiled code, S3 and S4 methods.
+- [Accessing R Source](https://github.com/jennybc/access-r-source), source of R
+  function, S3 class and compiled code
+
+### visualization
+
+- [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
+
+- [network visualization](https://kateto.net/network-visualization),  a 
+  comprehensive tutorial on network visualization with R. It covers data input 
+  and formats, visualization basics, parameters and layouts for one-mode and 
+  bipartite graphs; dealing with multiplex links, interactive and animated 
+  visualization for longitudinal networks; and visualizing networks on geographic 
+  maps.
+  
+### data science
+
+- [A graphical introducton to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star), slide
+- [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/), tutorial
+
+### bioinformatics
+
+#### microbe/metagenomic
 
 - [microbiome_helper](https://github.com/LangilleLab/microbiome_helper),some R
   scripts to help process and automate various microbiome and metagenomic
@@ -111,8 +138,7 @@
 
 ## ebook
 
-Repository [R-ebbok](https://github.com/yiluheihei/R-ebook) stored all the r programming e-books I collected.
-
+Repository [R-ebook](https://github.com/yiluheihei/R-ebook) stored all the r programming e-books I collected.
 
 ## Contributing
 
