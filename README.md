@@ -2,9 +2,15 @@
 
 ## packages
 
+### base
+
+- [rsrecovr](https://github.com/jmcphers/rsrecovr/tree/master/R), Recover 
+  unsaved files from RStudio sessions
+
 ### pipeline, reproducible research
 
-- [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for reproducibility and high-performance computing
+- [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for 
+  reproducibility and high-performance computing
 
 ### visualization
 
