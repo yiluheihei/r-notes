@@ -29,6 +29,12 @@
   wrapper for Highcharts javascript libray and its modules. Highcharts is very
   mature and flexible javascript charting library and it has a great and powerful
   API, See http://www.highcharts.com/demo.
+
+- [gghighlight](https://github.com/yutannihilation/gghighlight), highlight points and lines in ggplot2.
+
+- [ggtext](https://github.com/wilkelab/ggtext)， provides rich-text (basic HTML 
+  and Markdown) support for ggplot2. Rich text can be used in plot annotations 
+  (plot titles, subtitles, captions, axis labels, legends, etc.) 
   
 ### Bioinformatics
 
