@@ -11,6 +11,8 @@
 
 - [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for 
   reproducibility and high-performance computing
+- [knitcitations](https://github.com/cboettig/knitcitations), Generate citations 
+  for knitr markdown and html files 
 
 ### visualization
 
@@ -42,6 +44,8 @@
 
 - [GenVisR](https://github.com/griffithlab/GenVisR/issues), package,
   visulization for genomic data
+- [biomartr](https://github.com/ropensci/biomartr), genomic data retrieval with
+  R
 
 #### microbe/metagenomic
 
@@ -145,6 +149,7 @@
 
 - [awesome-R](https://github.com/qinwf/awesome-R): A curated list of awesome R 
   packages and tools
+- [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)
 - [DataScienceR](https://github.com/ujjwalkarn/DataScienceR): a curated list of R
   tutorials for Data Science, NLP and Machine Learning
 
