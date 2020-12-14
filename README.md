@@ -1,5 +1,8 @@
 # R packages and sources
 
+** Useful packages, tutorials, and sources I collected. I will choose the one 
+I think is best if multiple packages with similar functions.**
+
 ## packages
 
 ### base
@@ -16,9 +19,7 @@
 
 ### visualization
 
-- [esquisse](https://github.com/dreamRs/esquisse), RStudio add-in to make plots
-  with ggplot2. You can only create simple plots, you won't be able to use custom
-  scales and all the power of ggplot2
+#### ggplot2 family
 
 - [ggpointdensity](https://github.com/LKremer/ggpointdensity), 
   `geom_pointdensity()`: A cross between a scatter plot and a 2D density plot. 
@@ -26,17 +27,40 @@
   give you an estimate of how many points are overlapping. `geom_density2d()` and
   geom_bin2d() solve this issue, but they make it impossible to investigate 
   individual outlier points, which may be of interest.
+- [gghighlight](https://github.com/yutannihilation/gghighlight), highlight points and lines in ggplot2.
+- [esquisse](https://github.com/dreamRs/esquisse), RStudio add-in to make plots
+  with ggplot2. You can only create simple plots, you won't be able to use custom
+  scales and all the power of ggplot2
+- [ggtext](https://github.com/wilkelab/ggtext)， provides rich-text (basic HTML 
+  and Markdown) support for ggplot2. Rich text can be used in plot annotations 
+  (plot titles, subtitles, captions, axis labels, legends, etc.) 
+- [gganimate](https://github.com/thomasp85/gganimate),  extends the grammar of 
+  graphics as implemented by ggplot2 to include the description of animation.
+- [ggthemes](https://github.com/jrnold/ggthemes), some extra geoms, scales, and 
+  themes for ggplot.
+- [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes),  typography-centric 
+  themes and theme components for ggplot2.
+- [ggsci](https://github.com/nanxstats/ggsci), a collection of ggplot2 color 
+  palettes inspired by scientific journals, data visualization libraries, science
+  fiction movies, and TV shows.
+- [ggstream](https://github.com/davidsjoberg/ggstream), is to create a simple 
+  but powerful implementation of streamplot/streamgraph in ggplot2.
   
+#### base plot family
+
+- [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap), provides a 
+  highly flexible way to arrange multiple heatmaps and supports self-defined 
+  annotation graphic(s.
+- [ComplexUpset](https://github.com/krassowski/complex-upset/), offers a way to 
+  generate UpSet plots with annotations.
+
+#### javascript family 
+
 - [highcharter](https://github.com/jbkunst/highcharter), Highcharter is a R
   wrapper for Highcharts javascript libray and its modules. Highcharts is very
   mature and flexible javascript charting library and it has a great and powerful
   API, See http://www.highcharts.com/demo.
 
-- [gghighlight](https://github.com/yutannihilation/gghighlight), highlight points and lines in ggplot2.
-
-- [ggtext](https://github.com/wilkelab/ggtext)， provides rich-text (basic HTML 
-  and Markdown) support for ggplot2. Rich text can be used in plot annotations 
-  (plot titles, subtitles, captions, axis labels, legends, etc.) 
   
 ### Bioinformatics
 
