@@ -1,6 +1,6 @@
 # R packages and sources
 
-** Useful packages, tutorials, and sources I collected. I will choose the one 
+**Useful packages, tutorials, and sources I collected. I will choose the one 
 I think is best if multiple packages with similar functions.**
 
 ## packages
