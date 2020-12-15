@@ -22,7 +22,25 @@ I think is best if multiple packages with similar functions.**
 - [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for 
   reproducibility and high-performance computing
 - [knitcitations](https://github.com/cboettig/knitcitations), Generate citations 
-  for knitr markdown and html files 
+  for knitr markdown and html files.
+
+
+### package development
+
+- [devtools](https://github.com/r-lib/devtools), to make package development
+  easier by providing R functions that simplify and expedite common tasks.
+- [usethis](https://github.com/r-lib/usethis), automates repetitive tasks that
+  arise during project setup and development, both for R packages and
+  non-package projects.
+- [biocthis](https://github.com/lcolladotor/biocthis), expands [usethis](https://github.com/r-lib/usethis) with 
+  Bioconductor-friendly templates. These templates will help you quickly create
+  an R package that either has Bioconductor dependencies or that you are
+  thinking of submitting to Bioconductor one day.
+- [BiocCheck](https://github.com/Bioconductor/BiocCheck), executes
+  Bioconductor-specific package checks, encapsulates Bioconductor package
+  guidelines and best practices, analyzing packages and reporting three
+  categories of issues: ERROR, WARNING, and NOTE.
+
 
 ### visualization
 
