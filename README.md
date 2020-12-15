@@ -10,6 +10,13 @@ I think is best if multiple packages with similar functions.**
 - [rsrecovr](https://github.com/jmcphers/rsrecovr/tree/master/R), Recover 
   unsaved files from RStudio sessions
 
+### models, statistics
+
+- [corrr](https://github.com/tidymodels/corrr/), a package for exploring
+  correlations in R. It focuses on creating and working with data frames of 
+  correlations (instead of matrices) that can be easily explored via corrr 
+  functions or by leveraging tools like those in the tidyverse.
+
 ### pipeline, reproducible research
 
 - [drake](https://github.com/ropensci/drake), An R-focused pipeline toolkit for 
