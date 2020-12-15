@@ -159,8 +159,10 @@ I think is best if multiple packages with similar functions.**
   comprehensive tutorial on network visualization with R. It covers data input 
   and formats, visualization basics, parameters and layouts for one-mode and 
   bipartite graphs; dealing with multiplex links, interactive and animated 
-  visualization for longitudinal networks; and visualizing networks on geographic 
+  visualization for longitudinal networks; and visualizing networks on geographic
   maps.
+- [A ggplot2 tutorial for beautiful ploting in R.](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+  
   
 ### data science
 
