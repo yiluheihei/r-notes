@@ -81,6 +81,8 @@ I think is best if multiple packages with similar functions.**
   annotation graphic(s.
 - [ComplexUpset](https://github.com/krassowski/complex-upset/), offers a way to 
   generate UpSet plots with annotations.
+- [EnhancedVolcano](https://github.com/kevinblighe/EnhancedVolcano), 
+  publication-ready volcano plots with enhanced colouring and labeling.
 
 #### javascript family 
 
@@ -156,8 +158,6 @@ I think is best if multiple packages with similar functions.**
   downstream taxonomic hierarchical information - among other things
 - [taxa](https://github.com/ropensci/taxa), taxonomic classes and functions to manipulate them
 - [MetaLonDA](https://github.com/aametwally/MetaLonDA), a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies
-
-
 
 ## tutorials
 
